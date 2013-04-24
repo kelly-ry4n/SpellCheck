@@ -117,4 +117,4 @@ if __name__ == '__main__':
             print "%s is in the dictionary." % word
 
 
-# I am the supreme RULER of the bitspace - Ahrar
+# I am the uber awesome supreme RULER of the bitspace - Ahrar
