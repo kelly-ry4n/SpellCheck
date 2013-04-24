@@ -130,9 +130,8 @@ if __name__ == '__main__':
             print "%s not in dictionary." % word
         else:
             print "%s is in the dictionary." % word
-<<<<<<< HEAD
+
 
 
 # I am the uber awesome supreme RULER of the bitspace - Ahrar
-=======
->>>>>>> 9f37e202070b1fc979aa39fbadb5365883da4cf1
+
