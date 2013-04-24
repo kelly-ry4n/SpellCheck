@@ -1,6 +1,6 @@
 #!/urs/bin/python
 # Tested with python 2.7
-## This is used to genorate the lookup object used by the other files.
+## This is used to generate the lookup object used by the other files.
 
 
 class Node(object):
