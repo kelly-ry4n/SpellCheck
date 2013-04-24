@@ -86,7 +86,9 @@ class DAWG(object):
 
         return node.leaf
 
-
+def find_word():
+    pass
+    
 if __name__ == '__main__':
     import sys
     import time
